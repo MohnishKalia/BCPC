@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Linus",
+            "request": "launch",
+            "mainClass": "Linus",
+            "projectName": "BCPC"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Windows",
+            "request": "launch",
+            "mainClass": "Windows",
+            "projectName": "BCPC"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Balloons",
+            "request": "launch",
+            "mainClass": "Balloons",
+            "projectName": "BCPC"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Goat",
+            "request": "launch",
+            "mainClass": "Goat",
+            "projectName": "BCPC"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Funny",
             "request": "launch",
             "mainClass": "Funny",

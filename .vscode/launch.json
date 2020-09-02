@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Pops",
+            "request": "launch",
+            "mainClass": "Pops",
+            "projectName": "BCPC"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Testing",
+            "request": "launch",
+            "mainClass": "Testing",
+            "projectName": "BCPC"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Linus",
             "request": "launch",
             "mainClass": "Linus",
